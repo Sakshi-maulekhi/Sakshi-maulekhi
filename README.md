@@ -1,7 +1,7 @@
 ```md
 # Hi there, I'm Sakshi Maulekhi 👋
 
-🎓 B.Tech Information Technology Student  
+🎓 B.Tech IT Student  
 💻 Backend & AI Enthusiast | Full Stack Developer 
 
 ---
@@ -69,9 +69,8 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- Email: your-email@example.com
-
+- LinkedIn: www.linkedin.com/in/sakshi-maulekhi-9b369b306
+- Email: sakshimaulekhi84@gmail.com
 ---
 
 ⭐ Thanks for visiting my profile!
